@@ -1,0 +1,75 @@
+body {
+    background-color: #f8f4ee;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.invite-card {
+    width: 360px;
+    background: #fffdfa;
+    padding: 2rem 2rem 1.5rem 2rem;
+    border-radius: 18px;
+    box-shadow: 0 6px 24px rgba(80, 60, 30, 0.08);
+    margin: 48px auto 0 auto;
+    text-align: center;
+}
+
+.invite-image {
+    max-width: 100%;
+    border-radius: 12px;
+    display: block;
+    margin: 0 auto 1.2rem auto;
+}
+
+h1 {
+    color: #6b4f2c;
+    margin-bottom: 0.4rem;
+    font-size: 2rem;
+    letter-spacing: 1px;
+}
+
+h3 {
+    color: #a17b4b;
+    margin-top: 0;
+    margin-bottom: 1.3rem;
+    font-weight: 500;
+    font-size: 1.15rem;
+}
+
+.invite-details {
+    margin-bottom: 1.5rem;
+}
+
+.invite-details p {
+    margin: 0.3rem 0;
+    font-size: 1rem;
+    color: #55422b;
+    text-align: left;
+    padding-left: 18%;
+}
+
+.label {
+    font-weight: bold;
+    color: #8b5e2a;
+    margin-right: 0.6em;
+}
+
+.invite-footer {
+    border-top: 1px solid #f0e7d8;
+    margin-top: 1.2rem;
+    padding-top: 1rem;
+    font-size: 0.97rem;
+    color: #7a6a4d;
+    background: #fcf8f3;
+    border-radius: 0 0 14px 14px;
+}
+
+.invite-footer a {
+    color: #a17b4b;
+    text-decoration: none;
+}
+
+.invite-footer a:hover {
+    text-decoration: underline;
+}
